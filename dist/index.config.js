@@ -50,9 +50,6 @@ var index_config_default = {
   leijing: {
     url: ""
   },
-  awxVideo: {
-    url: ""
-  },
   tgsou: {
     tgPic: false,
     count: 0,
